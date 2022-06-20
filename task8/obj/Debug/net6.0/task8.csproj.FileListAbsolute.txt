@@ -1,0 +1,15 @@
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.csproj.AssemblyReference.cache
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.AssemblyInfoInputs.cache
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.AssemblyInfo.cs
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.csproj.CoreCompileInputs.cache
+/Users/ekaterina/Desktop/DZ1/task8/bin/Debug/net6.0/task8
+/Users/ekaterina/Desktop/DZ1/task8/bin/Debug/net6.0/task8.deps.json
+/Users/ekaterina/Desktop/DZ1/task8/bin/Debug/net6.0/task8.runtimeconfig.json
+/Users/ekaterina/Desktop/DZ1/task8/bin/Debug/net6.0/task8.dll
+/Users/ekaterina/Desktop/DZ1/task8/bin/Debug/net6.0/task8.pdb
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.dll
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/refint/task8.dll
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.pdb
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/task8.genruntimeconfig.cache
+/Users/ekaterina/Desktop/DZ1/task8/obj/Debug/net6.0/ref/task8.dll
